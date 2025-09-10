@@ -30,5 +30,5 @@ Verileriniz cihazınızda güvenli bir şekilde saklanır ve yalnızca uygulama 
 Bu gizlilik politikası, uygulama güncellemeleri veya yasal gereksinimlere bağlı olarak değişebilir. Önemli değişikliklerde kullanıcıları bilgilendireceğiz.
 8. İletişim
 Zikirul ile ilgili sorularınız veya gizlilik politikası hakkında daha fazla bilgi için bizimle iletişime geçebilirsiniz:
-E-posta: [sizin-eposta-adresiniz@example.com]
+E-posta: [cinephileoffical@gmail.com]
 Zikirul’u kullandığınız için teşekkür ederiz! Manevi yolculuğunuzda size destek olmaktan mutluluk duyuyoruz.
